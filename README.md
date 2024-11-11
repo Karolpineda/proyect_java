@@ -1,7 +1,7 @@
 # Hello with java
 ## 🥇Scope
 <p align="center">
-    <img src="./materials/results_php.png" alt="Hello from javascript">
+    <img src="./materials/results_java.png" alt="Hello from javascript">
 </p>
 This program to print the messages "Hello with java" in the languaje java.
 
